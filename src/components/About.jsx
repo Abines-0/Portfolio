@@ -17,20 +17,27 @@ export default function About(){
 
         <div className="col-md-8">
           <p className="lead">
-            Enthusiastic full-stack developer skilled in React.js, Python, Django, SQL, and machine learning. Passionate about creating efficient interfaces and intelligent, data-driven applications. Looking for an entry-level position to apply and expand my technical skills.
+            Aspiring Full Stack Developer eager to work on end-to-end web development, from user interfaces to server-side logic, and contribute to building high-quality, user-centric applications in a fast-paced organization.
           </p>
 
           <ul className="list-group list-group-flush mt-3">
             <li className="list-group-item">
-              
-              <strong>Email:</strong> <a href="mailto:abineshan356@gmail.com">abineshan356@gmail.com</a>
+              <strong>Email:</strong> 
+              <a href="mailto:abineshan356@gmail.com">
+                abineshan356@gmail.com
+              </a>
             </li>
+
             <li className="list-group-item">
-              <strong>Mobile:</strong> +91 7305152548 
+              <strong>Mobile:</strong>
+              <a href="tel:+91-73051-52548">
+                +91 7305152548
+              </a>
             </li>
+            
             <li className="list-group-item">
               <strong>LinkedIn:</strong>
-              <a href="www.linkedin.com/in/abinez0" className="ms-2" target="_blank">
+              <a href="https://www.linkedin.com/in/abinez0/" className="ms-2" target="_blank">
                 linkedin.com/in/abinez0
               </a>
             </li>
@@ -42,16 +49,16 @@ export default function About(){
         <div className="col-md-6">
           <h5>Skills</h5>
           <ul>
-            <li>Frontend: HTML, CSS, Bootstrap, JavaScript, React.js</li>
-            <li>Backend: Python, Flask, Django, Django REST Framework, REST API</li>
-            <li>Database: SQL (MySQL/PostgreSQL)</li>
-            <li>Machine Learning: Data Preprocessing, Feature Engineering, Model Training and Evaluation</li>
-            <li>Tools & Platforms: Git, GitHub, Postman, VS Code, Chrome DevTools, Jupyter Notebook, Google Colab</li>
+            <li>Frontend Development - HTML5, CSS3, JavaScript (ES6+), React.js</li>
+            <li>Backend Development - Node.js, Express.js, Python, Flask, Django, FastAPI</li>
+            <li>ML & Data Science - NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow / PyTorch</li>
+            <li>Developer Tools & Platforms: Git & GitHub , Postman , VS Code, PyCharm, Chrome DevTools, Jupyter Notebook, Google Colab, Linux</li>
+
           </ul>
         </div>
         <div className="col-md-6">
           <h5>Education</h5>
-          <p className="text-muted">B.E Electronics and Communication Engineering at Sree Sastha Institute of Engineering and Technology, Chennai</p>
+          <p className="text-muted">B.E Electronics and Communication Engineering (2021 - 2025)</p>
         </div>
       </div>
     </section>

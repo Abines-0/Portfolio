@@ -1,4 +1,4 @@
-import resumeUrl from "../assets/AbineshanResume.pdf"
+import resumeUrl from "../assets/abineshan_resume.pdf"
 
 export default function Hero() {
   return (
